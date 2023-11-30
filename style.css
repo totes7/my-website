@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Nova+Square&family=Nunito+Sans:opsz@6..12&display=swap');
+
+/* General */
+
+body {
+    display: flex;
+    background-color: black;
+    min-height: 100vh;
+    flex-direction: column;
+    font-family: 'Nunito', sans-serif;
+}
+
+/* Text */
+
+.nova {
+    font-family: 'Nova Square', sans-serif;
+    font-size: 50px;
+}
+
+/* Background colors */
+
+.bg-color-black {
+    background-color: black;
+}
+
+/* Navbar and Logo */
+
+nav {
+    padding: 0 30px;
+}
